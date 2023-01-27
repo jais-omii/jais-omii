@@ -103,9 +103,9 @@ Here are some ideas to get you started:
 
 - I dig up 🕵️‍♀️**real-world problems🌍**and **find solutions** for them.
 - I 😍love to **create and modify new products** and **projects**👨‍💻.
-- I focus on my **problem-solving skill** and **exploring**🕵️‍♀️.
+- I focus on my **problem-solving skill** and **exploring new AI trends**🕵️‍♀️.
 - I **build** Autonoumous and Manual **Robots**🤺.
-- I 👨‍🏫love to **share** my **knowledge** and **experience.
+- I 👨‍🏫love to **share** my **knowledge** and **experience**.
 - Always have eager to **learn new skills👨‍🎓**.
 
 ## **Support**
