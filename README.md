@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 
 
+<img align="center" src="/achievements.svg" alt="Achievements" width="400">
+
 
 ## **Connect with me🤞:**
 
@@ -132,17 +134,16 @@ Here are some ideas to get you started:
 <h4 align="center">  <img src="https://github.com/jais-omii/jais-omii/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%></h4>
 	
 	
-<!--    updates
 
+<!-- update
 
  <img align="left" src="/introduction.svg" alt="Introduction" width="400">
 <img align="left" src="/achievements.svg" alt="Achievements" width="400">
 <img align="left" src="/most-used-langs.svg" alt="Most Used Languages" width="400">
 <img align="left" src="/recent-activity.svg" alt="Recent Activity" width="400">
 <img align="left" src="/indepth-analysis.svg" alt="Indepth Analysis" width="400">
--->
 	
-	
+-->	
 	
 	
 	
