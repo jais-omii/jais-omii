@@ -89,8 +89,6 @@ Here are some ideas to get you started:
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
-
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px" height="40px">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40px" height="40px">
@@ -117,19 +115,35 @@ Here are some ideas to get you started:
 	
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" />
+<img src="https://github-readme-stats.vercel.app/api/?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" />
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" />
 
 </p>
 	
 	
 ## **Let's Play**	
 
-	
 ![snake gif](https://github.com/jais-omii/jais-omii/blob/output/github-contribution-grid-snake.gif) 
   
 
 ## **Code and Chill**
   
 <h4 align="center">  <img src="https://github.com/jais-omii/jais-omii/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%></h4>
+	
+	
+<!--    updates
+
+
+ <img align="left" src="/introduction.svg" alt="Introduction" width="400">
+<img align="left" src="/achievements.svg" alt="Achievements" width="400">
+<img align="left" src="/most-used-langs.svg" alt="Most Used Languages" width="400">
+<img align="left" src="/recent-activity.svg" alt="Recent Activity" width="400">
+<img align="left" src="/indepth-analysis.svg" alt="Indepth Analysis" width="400">
+-->
+	
+	
+	
+	
+	
+	
