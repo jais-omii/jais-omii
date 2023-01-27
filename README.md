@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img align="center" src="/achievements.svg" alt="Achievements" width="400">
 
 
-## **Connect with me🤞:**
+## **Connect with me🤞** 
 
   
  <!--
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </a>
   
 
-## **Languages and Tools**
+## **Languages and Tools** 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   
 </p>
 
-# **About me** :
+# **About me** 
 
 - I dig up 🕵️‍♀️**real-world problems🌍**and **find solutions** for them.
 - I 😍love to **create and modify new products** and **projects**👨‍💻.
@@ -124,12 +124,18 @@ Here are some ideas to get you started:
 </p>
 	
 	
-## **Let's Play**	
+## **Let's Play** 	
+	
+<p><img align="center" src="https://raw.githubusercontent.com/jais-omii/jais-omii/output/github-contribution-grid-snake.svg" alt="snake" /></p>
 
-![snake gif](https://github.com/jais-omii/jais-omii/blob/output/github-contribution-grid-snake.gif) 
+	
+## **GitHub Trophies**
+	
+![](https://github-profile-trophy.vercel.app/?username=jais-omii&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
   
 
-## **Code and Chill**
+## **Code and Chill** 
   
 <h4 align="center">  <img src="https://github.com/jais-omii/jais-omii/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%></h4>
 	
@@ -143,6 +149,7 @@ Here are some ideas to get you started:
 <img align="left" src="/recent-activity.svg" alt="Recent Activity" width="400">
 <img align="left" src="/indepth-analysis.svg" alt="Indepth Analysis" width="400">
 	
+![snake gif](https://github.com/jais-omii/jais-omii/blob/output/github-contribution-grid-snake.gif) 
 -->	
 	
 	
