@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src="https://github.com/jais-omii/jais-omii/blob/main/Assets/Hi.gif" width="40px"> I'm Om </h1>
-<h2 align="center">A passionate learner & Webdev from plant Earth</h2>
+<h2 align="center">A passionate learner & Webdev from planet Earth</h2>
 
 
 
