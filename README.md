@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me <a href="mailto:oracle.omii@gmail.com">**oracle.omii@gmail.com**
 
-- 📲 Give a call at : <a href="telto:+917618864456">**7618864456**</a>
+<!-- 📲 Give a call at : <a href="telto:+917618864456">**7618864456**</a> -->
+
 
 
 
